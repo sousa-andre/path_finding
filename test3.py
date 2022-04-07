@@ -2,7 +2,7 @@ import time
 
 from path_finding import Graph
 
-LOOP_TIMES = 100000
+LOOP_TIMES = 10000000
 
 g = Graph(8)
 g.add_edges_char(
